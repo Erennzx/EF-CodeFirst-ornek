@@ -1,3 +1,3 @@
-# Entity Framework CodeFirst Örneği
+# Entity Framework CodeFirst Uygulaması
 
-Entity Framework'de yaptığım ilk CodeFirst örneği
+Entity Framework'de bir tane DataGridView üzerinde yapmış olduğum ilk kayıt ekleyip eklediğim kayıtları seçip silebildiğim bir uygulama.
